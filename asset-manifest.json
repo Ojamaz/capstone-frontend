@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/scientific-graph/static/css/main.0c1d8529.css",
-    "main.js": "/scientific-graph/static/js/main.37b7e2cc.js",
-    "index.html": "/scientific-graph/index.html",
-    "main.0c1d8529.css.map": "/scientific-graph/static/css/main.0c1d8529.css.map",
-    "main.37b7e2cc.js.map": "/scientific-graph/static/js/main.37b7e2cc.js.map"
+    "main.css": "/capstone-frontend/static/css/main.0c1d8529.css",
+    "main.js": "/capstone-frontend/static/js/main.37b7e2cc.js",
+    "index.html": "/capstone-frontend/index.html",
+    "main.0c1d8529.css.map": "/capstone-frontend/static/css/main.0c1d8529.css.map",
+    "main.37b7e2cc.js.map": "/capstone-frontend/static/js/main.37b7e2cc.js.map"
   },
   "entrypoints": [
     "static/css/main.0c1d8529.css",
